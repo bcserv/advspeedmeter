@@ -1,0 +1,21 @@
+﻿"Phrases"
+{
+	"Current speed Max speed"
+	{
+		"de"	"Geschw. (höchst Geschw.)"
+		"en"	"Current speed (Max speed)"
+		"fr"	"Vitesse actuelle (Vitesse max)"
+	}
+	"The fastest players on this map"
+	{
+		"de"	"Die schnellsten Spieler auf dieser {R}Map:"
+		"en"	"The fastest players on this {R}map:"
+		"fr"	"Les joueurs les plus rapides sur cette {R}carte:"
+	}
+	"The fastest players in this round"
+	{
+		"de"	"Die schnellsten Spieler in dieser {R}Runde:"
+		"en"	"The fastest players in this {R}round:"
+		"fr"	"Les joueurs les plus rapides dans cette {R}ronde:"
+	}
+}
